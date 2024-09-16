@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rapemoqahe.pages.dev/sitemap.xml
